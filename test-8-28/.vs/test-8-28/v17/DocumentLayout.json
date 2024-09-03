@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\test-8-28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CABF280-ABA3-42B9-883B-AB4B3B6DFE5B}|test-8-28\\test-8-28.vcxproj|D:\\code\\test-8-28\\test-8-28\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CABF280-ABA3-42B9-883B-AB4B3B6DFE5B}|test-8-28\\test-8-28.vcxproj|solutionrelative:test-8-28\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CABF280-ABA3-42B9-883B-AB4B3B6DFE5B}|test-8-28\\test-8-28.vcxproj|D:\\code\\test-8-28\\test-8-28\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CABF280-ABA3-42B9-883B-AB4B3B6DFE5B}|test-8-28\\test-8-28.vcxproj|solutionrelative:test-8-28\\add.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add.c",
+              "DocumentMoniker": "D:\\code\\test-8-28\\test-8-28\\add.c",
+              "RelativeDocumentMoniker": "test-8-28\\add.c",
+              "ToolTip": "D:\\code\\test-8-28\\test-8-28\\add.c",
+              "RelativeToolTip": "test-8-28\\add.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-28T11:01:21.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code\\test-8-28\\test-8-28\\test.c",
+              "RelativeDocumentMoniker": "test-8-28\\test.c",
+              "ToolTip": "D:\\code\\test-8-28\\test-8-28\\test.c",
+              "RelativeToolTip": "test-8-28\\test.c",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAAM0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-28T01:42:41.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
