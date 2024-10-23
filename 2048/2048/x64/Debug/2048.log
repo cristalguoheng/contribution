@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\2048\2048\test.c(266,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2048.vcxproj -> D:\code\2048\x64\Debug\2048.exe
